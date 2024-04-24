@@ -1,9 +1,16 @@
-.ipynb_checkpoints/
-.vscode/
-data/
 .h5
 .png
 .md
 .wav
 .csv
+.txt
 
+.ipynb_checkpoints/
+.vscode/
+data/
+
+HW4/hw4_data.csv
+HW5/kws_model.h5
+HW5/kws_model.txt
+HW5/test_set_confusion_matrix.png
+HW5/training_curves.png
